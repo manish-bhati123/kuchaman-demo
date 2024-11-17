@@ -1,4 +1,4 @@
 # kuchaman-demo
 this is my frist repository
 <br>
-Auther by = manish
+Auther by = manish-bhati
